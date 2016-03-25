@@ -295,7 +295,7 @@ function create_config( )
     "Welcome",
     "quran"
   },
-    sudo_users = {109623401,106630608},--Sudo users
+    sudo_users = {109890540,106630608},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[
