@@ -14,7 +14,7 @@ end
 end
 return {
     patterns ={
-        "^([!/#]addsecret)$"
+        "^([!/#]addsecretm)$"
         },
     run = run
 }
